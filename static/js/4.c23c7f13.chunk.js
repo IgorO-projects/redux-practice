@@ -1,0 +1,2 @@
+(this["webpackJsonpredux-practice"]=this["webpackJsonpredux-practice"]||[]).push([[4],{35:function(e,t,c){e.exports={home__title:"Homeview_home__title__1fZVT"}},37:function(e,t,c){"use strict";c.r(t);var i=c(35),n=c.n(i),o=c(1);t.default=function(){return Object(o.jsx)("h1",{className:n.a.home__title,children:"Home Page"})}}}]);
+//# sourceMappingURL=4.c23c7f13.chunk.js.map
